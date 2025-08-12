@@ -1,0 +1,8 @@
+# ignore all .log files
+*.log
+
+# ignore log directory at repo root
+log/
+
+# optionally, ignore any 'log' directory anywhere
+**/log/

@@ -6,3 +6,5 @@ log/
 
 # optionally, ignore any 'log' directory anywhere
 **/log/
+hello.xml.bak
+*.orig
